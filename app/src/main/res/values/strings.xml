@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidImageLoading</string>
+    <string name="info">Info</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_title">Image title: %1$s</string>
+    <string name="image_type">Image type: %1$s</string>
+    <string name="image_size">Image size: %1$d*%2$d</string>
+    <string name="text_argb_config">ARGB_8888</string>
+    <string name="text_rgb_config">RGB_565</string>
+    <string name="bitmap_config_format">Bitmap config format:</string>
+    <string name="config">Configuration</string>
+</resources>
